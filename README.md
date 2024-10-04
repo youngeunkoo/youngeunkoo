@@ -26,6 +26,7 @@ Git
 Github
 Google Colab
 VScdoe
+discord
 
 
 
