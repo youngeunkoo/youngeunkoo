@@ -13,7 +13,7 @@ CSS
 
 
 
-**Interests**
+**Interests** <br>
 ![huggingface](https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)  <br>
 ![burgerking](https://img.shields.io/badge/burgerking-D62300?style=for-the-badge&logo=burgerking&logoColor=black)
 
