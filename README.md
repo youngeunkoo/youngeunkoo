@@ -46,7 +46,6 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngeunkoo&layout=compact) <br>
-![youngeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngeunkoo&show_icons=true&theme=gruvbox)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngeunkoo&layout=compact&bg_color=073B5A&text_color=FFFFFF&title_color=5CE500) <br>
+![youngeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngeunkoo&show_icons=true&theme=cobalt)
 
