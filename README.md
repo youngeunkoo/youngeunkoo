@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungeunkoo%2Fhit-counter&count_bg=%237BB1EE&title_bg=%23656363&icon=&icon_color=%237CB8E4&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Interested in Data Analysis
+## Not a data analyst, just someone who loves exploring with data.
 안녕하세요, 데이터를 통해 인사이트를 찾아내고 새로운 도전을 즐기는 데이터 분석가 구영은입니다😄
 
 
