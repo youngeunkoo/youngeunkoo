@@ -43,7 +43,7 @@
 <br>
 
 **🌱 Interests** <br>
-![Burgerking](https://img.shields.io/badge/burgerking-D62300?style=for-the-badge&logo=burgerking&logoColor=white)
+![McDonald's](https://img.shields.io/badge/mcdonalds-D62300?style=for-the-badge&logo=McDonald's&logoColor=yellow)
 ![Starbucks](https://img.shields.io/badge/starbucks-006241?style=for-the-badge&logo=starbucks&logoColor=white)
 
 
