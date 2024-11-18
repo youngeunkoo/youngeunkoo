@@ -3,7 +3,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungeunkoo%2Fhit-counter&count_bg=%237BB1EE&title_bg=%23656363&icon=&icon_color=%237CB8E4&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Not a data analyst, just someone who loves exploring with data.
-안녕하세요, 데이터를 통해 인사이트를 찾아내고 새로운 도전을 즐기는 데이터 분석가 구영은입니다😄
+안녕하세요, 데이터를 통해 인사이트를 찾아내고 새로운 발견을 즐기는 구영은입니다😄
+데이터를 통해 흥미로운 사실을 발견하고 문제를 해결하는 과정에 관심이 많습니다.
+'데이터 분석가'는 아니지만, 데이터를 다루며 얻는 통찰과 새로운 발견을 언제나 즐기고 있습니다.
 
 
 <br>
