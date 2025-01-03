@@ -9,7 +9,7 @@
 
 <br>
 <br>
-<br>
+
     
 
 ## SKILLS
@@ -21,7 +21,7 @@
 ![JAVA](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white) <br>
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) <br>
 ![Matplotlib](https://img.shields.io/badge/matplotlib-008080?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -34,7 +34,7 @@
 
 **🌱 Infra/Tools**  
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GIT Hub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![GIT Hub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) <br>
 ![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VScode](https://img.shields.io/badge/VSCODE-blue?style=for-the-badge&logoColor=white) <br>
