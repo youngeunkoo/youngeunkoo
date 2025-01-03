@@ -30,7 +30,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-<br>
+<br><br>
 
 **🌱 Infra/Tools**  
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -41,7 +41,7 @@
 ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![hugging face](https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)
 
-<br>
+<br><br>
 
 **🌱 Interests** <br>
 ![McDonald's](https://img.shields.io/badge/mcdonalds-D62300?style=for-the-badge&logo=McDonald's&logoColor=yellow)
