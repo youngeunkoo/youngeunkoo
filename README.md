@@ -3,9 +3,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungeunkoo%2Fhit-counter&count_bg=%237BB1EE&title_bg=%23656363&icon=&icon_color=%237CB8E4&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Discovering insights beyond the numbers.
-안녕하세요, 데이터를 통해 인사이트를 찾아내고 새로운 발견을 즐기는 구영은입니다😄 <br>
-데이터를 통해 흥미로운 사실을 발견하고 문제를 해결하는 과정에 관심이 많습니다. <br>
-'데이터 분석가'는 아니지만, 데이터를 다루며 얻는 통찰과 새로운 발견을 언제나 즐기고 있습니다. <br>
+안녕하세요. 데이터를 통해 인사이트를 발견하고 문제를 해결하는 과정을 즐기는 구영은입니다. <br>
+앞으로 데이터 분석가로 성장해 더 깊이 있는 분석과 인사이트를 만들어가고 싶습니다. 😊 <br>
 
 <br>
 <br>
@@ -18,7 +17,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JAVA](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white) <br>
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) <br>
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) <br>
@@ -39,13 +38,16 @@
 ![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VScode](https://img.shields.io/badge/VSCODE-blue?style=for-the-badge&logoColor=white) <br>
 ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![hugging face](https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)
 
 <br><br>
 
 **🌱 Interests** <br>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openAI&logoColor=white)
 ![McDonald's](https://img.shields.io/badge/mcdonalds-D62300?style=for-the-badge&logo=McDonald's&logoColor=yellow)
 ![Starbucks](https://img.shields.io/badge/starbucks-006241?style=for-the-badge&logo=starbucks&logoColor=white)
+![Samsung](https://img.shields.io/badge/SAMSUNG-1428A0?style=for-the-badge&logo=samsung&logoColor=white)
 
 
 
