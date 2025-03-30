@@ -1,6 +1,6 @@
 ![CapsuleRender](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Youngeun&textBg=false&fontSize=60)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungeunkoo%2Fhit-counter&count_bg=%237BB1EE&title_bg=%23656363&icon=&icon_color=%237CB8E4&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungeunkoo%2Fhit-counter&count_bg=%237BB1EE&title_bg=%23656363&icon=&icon_color=%237CB8E4&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Discovering insights beyond the numbers.
 안녕하세요. 데이터를 통해 인사이트를 발견하고 문제를 해결하는 과정을 즐기는 구영은입니다. <br>
